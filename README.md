@@ -12,7 +12,7 @@ Git
 
 ## Projects
 - Car Rental System
-- Python Mini Projects
+- Music Player (JavaScript)
 
 ## Contact
 LinkedIn: link
